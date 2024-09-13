@@ -5,6 +5,7 @@
 concentration-response data. Prediction of mixture toxicity based on reference 
 models such as 'concentration addition', 'independent action', and 'generalized 
 concentration addition'.
+* Source: https://cran.r-project.org/web/packages/mixtox/index.html
 
 * Version: 1.4.0
 * Date: 2022-06-19
